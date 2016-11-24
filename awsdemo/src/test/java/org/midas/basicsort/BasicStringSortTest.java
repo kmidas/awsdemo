@@ -13,7 +13,7 @@ public class BasicStringSortTest {
 	{
 		String name = "baba";
 		String returnVal = basicStringSort.showStuff(name); 
-		assertEquals(returnVal, "Hello baba");
+		assertEquals(returnVal, "ello baba");
 		
 	}
 	
